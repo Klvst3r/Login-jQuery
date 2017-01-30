@@ -23,7 +23,7 @@
       <br/>
       Add Boostrap and jQuery
       <br/>
-      Validation with jQuery
+      Validation with jQuery and Access to Database with user or email fields
       </p>
       <p>
       ### Config ###
