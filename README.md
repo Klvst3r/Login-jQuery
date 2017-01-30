@@ -21,19 +21,19 @@
       <p>
       ### Info ###
       <br/>
-      Add Boostrap and jQuery
+      Add Boostrap and jQuery with Data Base Access in MySQL
       <br/>
       Validation with jQuery and Access to Database with user or email fields
       </p>
       <p>
       ### Config ###
       <br/>
-      Known
+      Import the .sql file into your DB.
       </p>
       <p>
       ### Validacion ###
       <br/>
-      Validation...
+      The validation is in index file.
       </p>
       <p>
       ### Klvst3r ###
