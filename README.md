@@ -1,0 +1,45 @@
+<html lang="es_MX">
+<head>
+	<meta charset="utf-8"/>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<title>Login-jQuery</title>
+</head>
+<body>
+      <p>  
+     # Login-jQuery
+      </p>
+      <h1>
+      Third Project Login with PHP, jQuery, Bootstarp and MySQL
+      </h1>
+      <p>
+      ### Login with jQuey and Bootstarp ###
+      <br/>
+      * The third version of Login system add jQuery and Boostrap
+      * Ver 0.0.1
+      </p>
+      <p>
+      ### Info ###
+      <br/>
+      Add Boostrap and jQuery
+      <br/>
+      Validation with jQuery
+      </p>
+      <p>
+      ### Config ###
+      <br/>
+      Known
+      </p>
+      <p>
+      ### Validacion ###
+      <br/>
+      Validation...
+      </p>
+      <p>
+      ### Klvst3r ###
+      <br/>
+      <p>
+      This code was made and test by @Klvst3r.
+      </p>
+</body>
+</html>
